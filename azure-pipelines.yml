@@ -12,4 +12,4 @@ steps:
     displayName: 'Execute inline Bash'
     inputs :
      targetType: inline
-     script: echo "This Azure Pipeline task was successfully executed on $(hotname) using Bash."
+     script: echo "This Azure Pipeline task was successfully executed on $(hostname) using Bash."
